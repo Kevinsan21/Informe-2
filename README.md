@@ -23,7 +23,19 @@
 
 # 3. RESOLUCION DE EJERCICIOS
 
+EJERCICIOS PARES 
 
+![](https://github.com/Kevinsan21/imagenesinforme2/blob/main/1.jpg)
+![](https://github.com/Kevinsan21/imagenesinforme2/blob/main/2.jpg)
+![](https://github.com/Kevinsan21/imagenesinforme2/blob/main/3.jpg)
+![](https://github.com/Kevinsan21/imagenesinforme2/blob/main/4.jpg)
+![](https://github.com/Kevinsan21/imagenesinforme2/blob/main/5.jpg)
+![](https://github.com/Kevinsan21/imagenesinforme2/blob/main/6.jpg)
+![](https://github.com/Kevinsan21/imagenesinforme2/blob/main/7.jpg)
+![](https://github.com/Kevinsan21/imagenesinforme2/blob/main/8.jpg)
+![](https://github.com/Kevinsan21/imagenesinforme2/blob/main/9.jpg)
+![](https://github.com/Kevinsan21/imagenesinforme2/blob/main/10.jpg)
+![](https://github.com/Kevinsan21/imagenesinforme2/blob/main/11.jpg)
 
 # 4.VIDEO.
 
