@@ -8,6 +8,7 @@
 
 # 1. OBJETIVOS
 
+.conocer el comportamiento tanto externo como interno de los componenetes electricos como es el caso de las resistencias.
 
 
 # 2. MARCO TEORICO
