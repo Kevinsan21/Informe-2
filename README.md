@@ -23,6 +23,10 @@
 ![](https://github.com/Kevinsan21/imagenesinforme2/blob/main/resistencia5.png)
 ![](https://github.com/Kevinsan21/imagenesinforme2/blob/main/resistencia6.png)
 
+.Capitulo 4
+![](https://github.com/Kevinsan21/imagenesinforme2/blob/main/Book%20Review%20Mind%20Map.png)
+
+
 # 3. RESOLUCION DE EJERCICIOS
 
 EJERCICIOS PARES 
@@ -38,8 +42,14 @@ EJERCICIOS PARES
 ![](https://github.com/Kevinsan21/imagenesinforme2/blob/main/9.jpg)
 ![](https://github.com/Kevinsan21/imagenesinforme2/blob/main/10.jpg)
 ![](https://github.com/Kevinsan21/imagenesinforme2/blob/main/11.jpg)
-
-
+![](https://github.com/Kevinsan21/imagenesinforme2/blob/main/Circuitos3_1.jpg)
+![](https://github.com/Kevinsan21/imagenesinforme2/blob/main/Circuitos3_2.jpg)
+![](https://github.com/Kevinsan21/imagenesinforme2/blob/main/Circuitos3_3.jpg)
+![](https://github.com/Kevinsan21/imagenesinforme2/blob/main/Circuitos3_4.jpg)
+![](https://github.com/Kevinsan21/imagenesinforme2/blob/main/Circuitos3_5.jpg)
+![](https://github.com/Kevinsan21/imagenesinforme2/blob/main/Circuitos3_6.jpg)
+![](https://github.com/Kevinsan21/imagenesinforme2/blob/main/Circuitos3_7.jpg)
+![](https://github.com/Kevinsan21/imagenesinforme2/blob/main/Circuitos3_8.jpg)
 ![](https://github.com/Kevinsan21/imagenesinforme2/blob/main/Circuitos-electricos_page-0001.jpg)
 ![](https://github.com/Kevinsan21/imagenesinforme2/blob/main/Circuitos-electricos_page-0002.jpg)
 ![](https://github.com/Kevinsan21/imagenesinforme2/blob/main/Circuitos-electricos_page-0003.jpg)
