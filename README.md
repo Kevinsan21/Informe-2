@@ -42,7 +42,7 @@ EJERCICIOS PARES
 ![](https://github.com/Kevinsan21/imagenesinforme2/blob/main/9.jpg)
 ![](https://github.com/Kevinsan21/imagenesinforme2/blob/main/10.jpg)
 ![](https://github.com/Kevinsan21/imagenesinforme2/blob/main/11.jpg)
-![](https://github.com/Kevinsan21/imagenesinforme2/blob/main/Circuitos3_1.jpg)
+![](https://github.com/Kevinsan21/imagenesinforme2/blob/main/Circuitos4.jpg)
 ![](https://github.com/Kevinsan21/imagenesinforme2/blob/main/Circuitos3_2.jpg)
 ![](https://github.com/Kevinsan21/imagenesinforme2/blob/main/Circuitos3_3.jpg)
 ![](https://github.com/Kevinsan21/imagenesinforme2/blob/main/Circuitos3_4.jpg)
