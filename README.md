@@ -59,7 +59,7 @@ EJERCICIOS PARES
 ![](https://github.com/Kevinsan21/imagenesinforme2/blob/main/Circuitos-electricos_page-0005.jpg)
 ![](https://github.com/Kevinsan21/imagenesinforme2/blob/main/Circuitos-electricos_page-0006.jpg)
 # 4.VIDEO.
-
+https://www.youtube.com/watch?v=qZYuDI4kJeY
 
 # 5.CONCLUSIONES.
 En cuanto a lo abordado con anterioridad, es posible indicar la importancia de  la resistencia  que representa una oposicion al movimiento , cuanto mas grande sea  la  oposicion mas pequeña sera la corriente para un determinado voltaje aplicado, tambien hay que recordar que la relacion que existe entre  corriente y resistencia es inversamente proporcional.
