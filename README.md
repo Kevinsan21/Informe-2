@@ -9,6 +9,8 @@
 # 1. OBJETIVOS
 
 . Conocer el comportamiento tanto externo como interno de los componenetes electricos como es el caso de las resistencias.
+
+
 . Aplicar los conocimientos adquiridos sobre corriente, voltaje y resistencia asociando  en la Ley de Ohm.
 
 
@@ -66,3 +68,4 @@ En cuanto a lo abordado con anterioridad, es posible indicar la importancia de  
 
 
 # 6.BIBLIOGRAFIA.
+Robbins, A., & Oja, D. (s. f.). Analisis De Circuitos Electricos/ Circuit Analysis: Teoria Y Practica/ Theory and Practice (4 Pap/Cdr ed.) [Libro electrónico]. https://www.academia.edu/20334884/Analisis_de_circuitos_Teoria_y_practica
