@@ -22,9 +22,6 @@
 ![](https://github.com/Kevinsan21/imagenesinforme2/blob/main/resistencia5.png)
 ![](https://github.com/Kevinsan21/imagenesinforme2/blob/main/resistencia6.png)
 
-.Capitulo 4
-![](https://github.com/Kevinsan21/imagenesinforme2/blob/main/Book%20Review%20Mind%20Map.png)
-
 # 3. RESOLUCION DE EJERCICIOS
 
 EJERCICIOS PARES 
@@ -52,6 +49,8 @@ EJERCICIOS PARES
 
 
 # 5.CONCLUSIONES.
+En cuanto a lo abordado con anterioridad, es posible indicar la importancia de  la resistencia  que representa una oposicion al movimiento , cuanto mas grande sea  la  oposicion mas pequeña sera la corriente para un determinado voltaje aplicado, tambien hay que recordar que la relacion que existe entre  corriente y resistencia es inversamente proporcional.
+
 
 
 
