@@ -9,6 +9,7 @@
 # 1. OBJETIVOS
 
 . Conocer el comportamiento tanto externo como interno de los componenetes electricos como es el caso de las resistencias.
+. Aplicar los conocimientos adquiridos sobre corriente, voltaje y resistencia asociando  en la Ley de Ohm.
 
 
 # 2. MARCO TEORICO
@@ -21,9 +22,6 @@
 ![](https://github.com/Kevinsan21/imagenesinforme2/blob/main/resistencia4.png)
 ![](https://github.com/Kevinsan21/imagenesinforme2/blob/main/resistencia5.png)
 ![](https://github.com/Kevinsan21/imagenesinforme2/blob/main/resistencia6.png)
-
-.Capitulo 4
-![](https://github.com/Kevinsan21/imagenesinforme2/blob/main/Book%20Review%20Mind%20Map.png)
 
 # 3. RESOLUCION DE EJERCICIOS
 
