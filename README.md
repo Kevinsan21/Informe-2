@@ -22,6 +22,9 @@
 ![](https://github.com/Kevinsan21/imagenesinforme2/blob/main/resistencia5.png)
 ![](https://github.com/Kevinsan21/imagenesinforme2/blob/main/resistencia6.png)
 
+.Capitulo 4
+![](https://github.com/Kevinsan21/imagenesinforme2/blob/main/Book%20Review%20Mind%20Map.png)
+
 # 3. RESOLUCION DE EJERCICIOS
 
 EJERCICIOS PARES 
